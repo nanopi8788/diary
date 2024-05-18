@@ -3,24 +3,24 @@ body{
 }
 
 .header{
-    background-color: #cafoff;
+    background-color: #84dfa3;
     height: 150px;
     width: 1920px;
 }
 
-.*{
+*{
     margin: 0;
     padding: 0;
 }
 
 .main{
-    background-color: #ffdbfa;
-    height: 1000px;
+    background-color: #b6ffce;
+    height: 3000px;
     width: 1920px;
 }
 
 .footer{
-    background-color:#ccclff;
+    background-color: #84dfa3;
     height: 150px;
     width: 1920px;
 }
